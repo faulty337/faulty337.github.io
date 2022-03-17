@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "범준의 블로그"
+title                    : "빰준의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "faulty"
-description              : "블루스크린 메이커의 홈페이지"
+description              : "블루스크린 메이커의 블로그"
 url                      : "https://faulty337.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Beom Joon"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer"
-  location         : "Jeju, Korea"
-  email            : "faulty337@gmail.com"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
