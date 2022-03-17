@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Kim Beom Joon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "아무튼 개발자"
+  bio              : "Developer"
   location         : "Jeju, Korea"
   email            : "faulty337@gmail.com"
   links:
